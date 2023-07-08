@@ -1,0 +1,14 @@
+ul{
+    color: red;
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+body{
+    background-color: skyblue;
+}
